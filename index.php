@@ -3,12 +3,12 @@
 	<head>
 		<meta charset="utf-8" />
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="css/new_file.css"/>
+		<link rel="stylesheet" type="text/css" href="css/myblog.css"/>
 	</head>
 	<body>
 		<header>
 			<div class="topbanner">
-				<span>次碳酸钴的技术博客，文章原创，转载请保留原文链接 ^_^</span>
+				<span>蔡创的个人博客 ^_^</span>
 				<ul class="sprite">
 					<li><i class="s-icon"></i></li>
 					<li><i class="s-icon"></i></li>
@@ -19,10 +19,10 @@
 		</header>
 		<nav>
 			<div class="nav-container">
-				<h2><a href="#">Web技术研究所</a></h2>
-				<p>我一直坚信着，Web将会成为未来应用程序的主流</p>
+				<h2><a href="#">技术文章分享</a></h2>
+				<p>一些文章分享</p>
 				<ul>
-					<li><a href="#" class="on">网站首页</a></li>
+					<li><a href="#">网站首页</a></li>
 					<li><a href="#">文章一览</a></li>
 					<li><a href="#">系列专题</a></li>
 					<li> <a href="#">系列专题</a></li>
@@ -35,7 +35,7 @@
 				<div class="l_context">
 					<section>
 						<div class="time">
-							2015<br /> 12&nbsp;24
+							<p>2017-12-27 10:31:33
 						</div>
 						<div class="comment">
 							评论<br />0条
@@ -152,8 +152,10 @@
 			</div>
 		</section>
 		<footer>
-			<p>Copyright ©2012-2016 次碳酸钴 All rights reserved</p>
+			<p>Copyright ©2017-2017 蔡创 All rights reserved</p>
 		</footer>
-		<script src="js/new_file.js"></script>
+        
 	</body>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+    <script src="js/index.js"></script>
 </html>
